@@ -26,18 +26,39 @@ Software engineering is the systematic application of engineering principles, me
 * Waterfall focuses on defining project budgets, timelines, requirements, and deliverables, making it a predictable methodology wheras Agile lacks this predictability could making it difficult to gain the approval of stakeholders before beginning a new project.
 * Agile projects produce consistent deliverables over time, making it easier to detect and address issues before arriving at the final product whereas Waterfall projects usually don’t realize their full value until the end of the project, which could result in sunk costs if you need to make changes or switch to a new project altogether.
   _Appropriate Scenarios for the two methodologies_
-  #### Agile Methodologies| #### Waterfall Methodologies
-  
+  #### Agile Methodologies               
+  * Software development and general IT   
+  * Advertising and marketing
+  * Aerospace             
+  #### Waterfall Methodologies
+  * Construction projects
+  * Healthcare
+  * Manufacturing
 
+### Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+#### Software Developer 
+* Writing code and developing software 
+* Code maintenance and refactoring existing code to improve its performance
+* Writing technical documentation for your product’s code, APIs, and system architecture
+#### Quality Assurance Engineer
+* Finding and fixing bugs in the software to ensure it remains consistently high-quality
+* Creating test plans on every level and create an in-depth testing strategy
+* Running manual and automated tests to make sure all bugs and issues are fixed
+#### Project Manager
+* Monitoring the team members’ progress and sets deadlines to keep the project on track and on time
+* coordinates and helps different team members collaborate and resolve any conflicts that might happen
+* Planning – They’re in charge of outlining tasks and timelines and the resources needed to complete them
 
+### Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Version control systems are important for maintaining a change log. These systems monitor and record every change made to the software. Leveraging their capabilities not only simplifies tracking changes but also enables easy collaboration and easy reversal of changes if needed. Examples ase Git, Subversion, GiLab,GitHub, AWSCodeCommit
+An integrated development environment incorporates multiple development-related technologies into a single framework. When all utilities are displayed on a single workbench, developers do not need to spend countless hours learning how to use each one independently. Useful for novice developers who may utilize an IDE to discover a team’s essential processes and tools.Examples are AWS Cloud9, Visual Studio Code, Eclipse
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
-
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
-
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+### What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+ * Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
+ * Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
+* Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
+  _Strategies for Overcoming Challenges_
+Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
